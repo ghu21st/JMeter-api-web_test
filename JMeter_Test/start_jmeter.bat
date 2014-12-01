@@ -1,0 +1,1 @@
+c:\apache-jmeter-2.11\bin\jmeter.bat -Dfile.encoding=UTF-8

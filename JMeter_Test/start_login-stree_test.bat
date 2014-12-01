@@ -1,0 +1,1 @@
+c:\apache-jmeter-2.11\bin\jmeter.bat -n -t C:\JMeter_Test\LiveAssist_Perf\LA_stress_login_test1.jmx -l test.jtl
